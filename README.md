@@ -1,8 +1,8 @@
-**Project name**: Web API Challenge
+**Project name**: Third-Party APIs Challenge
 
-**Description**: This project purpose was to test our javescript skills and using the APIs fundamentals we learned throughout the week
+**Description**: This project purpose was to test our javescript skills and using the third-party api, with libraries such as jQuery, BootStrap, Moment etc..
 
-**Special Notes**: the CSS was leveraged from the weekly lesson activity "taskinator" with modifications.
+**Special Notes**: none.
 
 **Installation**: 	
 
