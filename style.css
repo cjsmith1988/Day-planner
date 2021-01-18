@@ -23,6 +23,8 @@ textarea{
 
 .description{
   white-space: pre-wrap;
+  text-indent: 20px;
+  color: #000000;
 }
 
 .time-block{
@@ -32,8 +34,8 @@ textarea{
 
 .row {
   white-space: pre-wrap;
-  height: 80px;
-  border-top: 1px solid white;;
+  /* height: 80px; */
+  border-top: 1px solid white;
 }
 
 .hour {
@@ -58,7 +60,21 @@ textarea{
   background-color: #77dd77;
   color: white;
 }
+button {
+  all: none;
+  background-color: #06AED5;
+  color: white;
+  border: none;
+  margin: 0;
+  outline: none;
+  
+}
 
+.description{
+  white-space: pre-wrap;
+  text-indent: 20px;
+  color: #000000;
+}
 .saveBtn {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
@@ -66,14 +82,28 @@ textarea{
   background-color: #06AED5;
   color: white;
   height: 80px;
+  position: relative;
 }
 
-.saveBtn i:hover {
-  font-size: 20px;
+.saveBtn:hover {
   transition: all .3s ease-in-out;
 }
-.row {
-  white-space: pre-wrap;
-  height: 80px;
-  border-top: 1px solid white;;
+
+button:focus {
+  outline:0;
+}
+
+textarea {
+  width: 95%;
+  height: 100%;
+}
+
+.button-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button:hover {
+  color: #000000;
+  transition: all .3s ease-in-out;
 }
