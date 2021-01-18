@@ -6,7 +6,7 @@
 
 **Installation**: 	
 
-access Github repository here: https://github.com/cjsmith1988/Take-the-Quiz.git
+access Github repository here: https://github.com/cjsmith1988/Day-planner.git
 
 
 access Application URL here: https://cjsmith1988.github.io/Day-planner/
@@ -14,45 +14,47 @@ access Application URL here: https://cjsmith1988.github.io/Day-planner/
 
 **Usage**: This was used for testing methods learned from the previous week.
 
-**Contributing**: this is unfinished application.
+**Contributing**: 
 
 **Credits**: This page was made by Curtis Smith
 
 **License**: This has no license
 
 ### User Story:
+AS AN employee with a busy schedule
 
-AS A coding boot camp student
+I WANT to add important events to a daily planner
 
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
-
-SO THAT I can gauge my progress compared to my peers
-
+SO THAT I can manage my time effectively
 
 ### Requirements:
 
-GIVEN I am taking a code quiz
+GIVEN I am using a daily planner to create a schedule
 
-WHEN I click the start button
+WHEN I open the planner
 
-THEN a timer starts and I am presented with a question
+THEN the current day is displayed at the top of the calendar
 
-WHEN I answer a question
+WHEN I scroll down
 
-THEN I am presented with another question
+THEN I am presented with time blocks for standard business hours
 
-WHEN I answer a question incorrectly
+WHEN I view the time blocks for that day
 
-THEN time is subtracted from the clock
+THEN each time block is color-coded to indicate whether it is in the past, present, or future
 
-WHEN all questions are answered or the timer reaches 0
+WHEN I click into a time block
 
-THEN the game is over
+THEN I can enter an event
 
-WHEN the game is over
+WHEN I click the save button for that time block
 
-THEN I can save my initials and score
+THEN the text for that event is saved in local storage
+
+WHEN I refresh the page
+
+THEN the saved events persist
 
 
 
-![Screen shot of app](https://github.com/cjsmith1988/Day-planner/blob/main/dayPlannerScreenGrab.PNGraw=true)
+![Alt_Text](https://github.com/cjsmith1988/Day-planner/blob/main/dayPlannerScreenGrab.PNGraw=true)
