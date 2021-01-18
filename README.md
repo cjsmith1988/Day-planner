@@ -57,4 +57,4 @@ THEN the saved events persist
 
 
 
-![Alt_Text](https://github.com/cjsmith1988/Day-planner/blob/main/dayPlannerScreenGrab.PNGraw=true)
+![Alt_Text](https://github.com/cjsmith1988/Day-planner/blob/main/dayPlannerScreenGrab.PNG?raw=true)
