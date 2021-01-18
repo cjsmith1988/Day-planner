@@ -9,7 +9,7 @@
 access Github repository here: https://github.com/cjsmith1988/Take-the-Quiz.git
 
 
-access Application URL here: https://cjsmith1988.github.io/Take-the-Quiz/
+access Application URL here: https://cjsmith1988.github.io/Day-planner/
 				
 
 **Usage**: This was used for testing methods learned from the previous week.
